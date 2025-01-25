@@ -9,7 +9,8 @@ I have downloaded the dataset from Kaggle: https://www.kaggle.com/datasets/techs
 ## Code
 This is my Code for week1 assignment after following edunet class on CNN model and Waste Image Classification Project
 
-![Screenshot 2025-01-21 201840](https://github.com/user-attachments/assets/bf3c5757-0b58-4e2d-a02f-f786312c5fbb)
+![Screenshot 2025-01-21 201820](https://github.com/user-attachments/assets/03adc5d1-5faf-4dc5-ab8d-4df637151fa1)
+
 
 ![Screenshot 2025-01-21 201840](https://github.com/user-attachments/assets/05d4c237-8d92-463e-b9d6-3a6533315289)
 
